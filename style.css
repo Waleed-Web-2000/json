@@ -1,0 +1,19 @@
+:root {
+    view-transition-name: root;
+}
+html {
+    display: block;
+}
+head {
+    display: none;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px;
+}
